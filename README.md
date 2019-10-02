@@ -4,14 +4,14 @@
 
 ## Goal
 
-#### The goal of the challenge is to make a good-looking montage of images from videos from a database of celebrity videos to match an unknown target video! We will also look through best scoring videos and add points for creativity!
+#### Description The goal of the challenge is to make a good-looking montage of images from database of videos to match an unknown target video! We will also look through best scoring videos and add points for creativity!
+
 
 Good-looking face-alignment has been defined as a cost function that 
 incentivizes keeping visual differences low between consecutive frames
 and faces aligned between target and produced outputs.
 
-For creativity, do image warping, have videos of only a single celebrity, add a beat, do face swaps...
-let your creativity flow and make us laugh! :)
+Let your creativity flow and make us laugh! :)
 
 Please send your solutions to challenge@veriff.com, more detailed format under [Submitting](https://github.com/Jonksar/face_alignement_challenge#submitting).
 
@@ -24,8 +24,8 @@ Please send your solutions to challenge@veriff.com, more detailed format under [
 ## Timeline
 
 1. Challenge was made for Pycon Estonia 2019 on October 3rd, 2019.
-2. Participations after October 10th, will not be considered valid.
-3. Veriff will announce the winners on October 17th.
+2. Participations after October 17th will not be considered valid.
+3. Veriff will announce the winners on October 24th.
 
 ## Running the code
 You will need Python 3.6 or later.
