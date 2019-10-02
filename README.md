@@ -36,7 +36,7 @@ In order to get started, clone current github repository for solution interface
 and set up Python development environment:
 
 ```
-git clone git@github.com:Veriff/face_alignment_challenge.git
+git clone https://github.com/Veriff/face_alignment_challenge.git
 cd face_alignment_challenge
 
 # You can set up an virtual environment here
