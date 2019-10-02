@@ -1,0 +1,8 @@
+annoy==1.16.0
+Click==7.0
+matplotlib==3.1.1
+numpy==1.17.2
+opencv-python==4.1.1.26
+pandas==0.25.1
+tqdm==4.36.1
+attrs==19.1.0
