@@ -13,7 +13,7 @@ and faces aligned between target and produced outputs.
 
 Let your creativity flow and make us laugh! :)
 
-Please send your solutions to challenge@veriff.com, more detailed format under [Submitting](https://github.com/Jonksar/face_alignement_challenge#submitting).
+Please send your solutions to challenge@veriff.com, more detailed format under [Submitting](https://github.com/Veriff/face_alignement_challenge#submitting).
 
 ## Constraints
 
