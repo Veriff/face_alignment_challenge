@@ -98,17 +98,17 @@ You can get running with:
 python cli.py --help
 
 # Build file index, takes about 20s
-python cli.py index --videos data/train/youtube_faces_with_keypoints_small.csv
+python cli.py index --videos data/train/youtube_faces_with_keypoints_large.csv
 
 # Process a video, matching it against the index.
-python cli.py process-video -v PATH_TO_VIDEO_NPZ
+python cli.py process-video --videos data/train/youtube_faces_with_keypoints_large.csv PATH_TO_VIDEO_NPZ
 ```
 
 We also provide a baseline model that you can try by adding `--baseline` flag after `cli.py`:
-
-    python cli.py --baseline index 
-    python cli.py --baseline process-video -v PATH_TO_VIDEO
-
+```
+python cli.py --baseline index --videos data/train/youtube_faces_with_keypoints_large.csv
+python cli.py --baseline --videos data/train/youtube_faces_with_keypoints_large.csv PATH_TO_VIDEO_NPZ
+```
 
 ## Participating
 
