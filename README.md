@@ -1,3 +1,9 @@
+---
+owner: "Data extraction team"
+description: "The goal of the challenge is to make a good-looking montage of images from database of videos to match an unknown target video! We will also look through best scoring videos and add points for creativity!"
+status: "deprecated"
+type: "challenge"
+---
 # Face alignment challenge
 
 **There is a grand prize of 500€ for the first place and additional smaller prizes for others!**
